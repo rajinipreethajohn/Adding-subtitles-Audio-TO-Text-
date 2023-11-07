@@ -1,6 +1,8 @@
-# Transcribe and Export Video/Audio to SRT File
+# Transcribe and Export Video/Audio to SRT File with Timestamps
 
-This Python script utilizes the AssemblyAI API to transcribe an audio file and export the transcription as an SRT (SubRip) file.
+This Python script utilizes the AssemblyAI API to transcribe an audio or video file and export the transcription as an SRT (SubRip) file.
+
+<img width="680" alt="subs" src="https://github.com/rajinipreethajohn/Video-Audio-TO-Text/assets/72058664/cb795809-3f79-45f6-b10c-871ce0f5836f">
 
 ## Prerequisites
 - Python installed on your system
