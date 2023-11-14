@@ -4,6 +4,7 @@ This Python script utilizes the AssemblyAI API to transcribe an audio or video f
 
 <img width="680" alt="subs" src="https://github.com/rajinipreethajohn/Video-Audio-TO-Text/assets/72058664/cb795809-3f79-45f6-b10c-871ce0f5836f">
 
+## FUN FACT: The video used in this project to transcribe, is from my own YouTube Channel (NurtureNestTube). Link: https://www.youtube.com/channel/UCaVsVj7Z7f4t_swvEh8iHqA
 ## Prerequisites
 - Python installed on your system
 - An AssemblyAI API key. You can obtain one by signing up at [AssemblyAI](https://assemblyai.com/)
